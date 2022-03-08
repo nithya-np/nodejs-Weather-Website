@@ -1,5 +1,5 @@
 # nodejs-Weather-Website
-Nodejs demo project which uses weatherstack API
+Nodejs demo project which uses weatherstack API and Mapbox Geocoding API
 
 
 Website link:
